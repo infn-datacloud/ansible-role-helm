@@ -1,2 +1,2 @@
 ---
-- include: helm.yml
+- import_tasks: helm.yml
